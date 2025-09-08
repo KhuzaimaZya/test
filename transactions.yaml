@@ -1,0 +1,6 @@
+- amount: 1000000
+  currency: ZZ
+  op: SELL
+- amount: 1
+  currency: FL
+  op: BUY
